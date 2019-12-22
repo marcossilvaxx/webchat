@@ -17,16 +17,17 @@ html, body {
 }
 
 input {
-    width: 600px;
+    width: 50%;
     border: 1px solid #ddd;
-    height: 50px;
+    height: 15%;
     padding: 0 20px;
     font-size: 14px;
 }
 
 button {
-    width: 600px;
-    height: 50px;
+    cursor: pointer;
+    width: 50%;
+    height: 15%;
     font-size: 14px;
     background: #069;
     text-align: center;
@@ -37,8 +38,9 @@ button {
 }
 
 .messages {
-    width: 600px;
-    height: 400px;
+    overflow: scroll;
+    width: 50%;
+    height: 100%;
     margin: 20px 0;
     border: 1px solid #ddd;
     padding: 20px;
