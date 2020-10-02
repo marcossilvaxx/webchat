@@ -10,13 +10,13 @@
 
 ### Versionamento 🔃
 
-* Não implementado [tags](https://github.com/marcossilvaxx/GokuGame/tags). 
+* Não implementado [tags](https://github.com/marcossilvaxx/webchat/tags). 
 
 ## Autores
 
 * **Marcos Silva** - *Base do programa implementado*
 
-Lista de [contribuidores](https://github.com/marcossilvaxx/GokuGame/contributors) que participaram deste projeto.
+Lista de [contribuidores](https://github.com/marcossilvaxx/webchat/contributors) que participaram deste projeto.
 <a href="https://github.com/marcossilvaxx" target="_blank">**Marcos Silva**</a> 
 | :---: |
 | [![Marcos Silva](https://avatars1.githubusercontent.com/u/20626761?s=300&u=3c6268b8f5ed533fc116536f1a20fdf46c5edc93&v=4)](https://github.com/marcossilvaxx)|
