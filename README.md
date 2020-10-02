@@ -1,4 +1,3 @@
-# webchat
 # NodeChat
 
 <img src="https://github.com/bielmenezesc/webchat/blob/master/web%20chat.gif" alt="drawing" width="300"/>
