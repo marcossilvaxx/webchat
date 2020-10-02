@@ -19,7 +19,7 @@
 Lista de [contribuidores](https://github.com/marcossilvaxx/webchat/contributors) que participaram deste projeto.
 <a href="https://github.com/marcossilvaxx" target="_blank">**Marcos Silva**</a> 
 | :---: |
-| [![Marcos Silva](https://avatars1.githubusercontent.com/u/20626761?s=300&u=3c6268b8f5ed533fc116536f1a20fdf46c5edc93&v=4)](https://github.com/marcossilvaxx)|
+| [![Marcos Silva](https://avatars1.githubusercontent.com/u/20626761?s=200&u=3c6268b8f5ed533fc116536f1a20fdf46c5edc93&v=4)](https://github.com/marcossilvaxx)|
 | <a href="https://github.com/marcossilvaxx" target="_blank">`https://github.com/marcossilvaxx`</a> |
 
 ## Suporte
